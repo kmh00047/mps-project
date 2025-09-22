@@ -103,7 +103,7 @@ avrdude -c arduino -p atmega328p -P /dev/ttyUSB0 -b115200 -U flash:w:mps.hex
 
 ### License
 
-This project is open-sourced under the [MIT License](./MIT LICENSE).
+This project is open-sourced under the [MIT LICENSE](./LICENSE).
 Feel free to use, modify, and learn from it.
 
 ### Inspiration
