@@ -100,6 +100,8 @@ avrdude -c arduino -p atmega328p -P /dev/ttyUSB0 -b115200 -U flash:w:mps.hex
 ---
 
 ### Docs (Screenshots / Video / Documentation)
+- [Watch Video](https://drive.google.com/file/d/1Kwvu2YDM5kLghnLNrkTukM20_BHMjaY6/view?usp=drive_link).
+- [Watch Photos](./Docs)
 
 ### License
 
