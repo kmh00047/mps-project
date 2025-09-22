@@ -1,0 +1,13 @@
+# compiled objects, OS files, editor temp files, common IDE files
+*.o
+*.exe
+*.dll
+.DS_Store
+.idea/
+.vscode/
+build/
+dist/
+# large assets (use git-lfs if required)
+*.mp4
+*.zip
+*.psd
